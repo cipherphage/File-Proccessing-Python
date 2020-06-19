@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Lamp</name>
+    <price currency="USD">15.00</price>
+    <description>Light your desk with style with this desk lamp.</description>
+  </product>
+  <product>
+    <name>Microphone</name>
+    <price currency="USD">79.00</price>
+    <description>Take your remote meeting audio to the next level with this awesome USB microphone.</description>
+  </product>
+  <product>
+    <name>Webcam</name>
+    <price currency="USD">39.00</price>
+    <description>Show your face with extreme clarity in your next video meeting using this excellent webcam.</description>
+  </product>
+  <product>
+    <name>Standing Desk</name>
+    <price currency="USD">1200.00</price>
+    <description>Improve your health even with a desk job using this adjustable sitting/standing desk.</description>
+  </product>
+  <product>
+    <name>Desk Chair</name>
+    <price currency="EUR">350.00</price>
+    <description>Sit in comfort with this ergonomic desk chair.</description>
+  </product>
+</products>
